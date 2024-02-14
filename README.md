@@ -24,18 +24,11 @@ There are two ways to start using Bootstrap on your own web site.
 
 You can:
 <br>
-Download Bootstrap from getbootstrap.com
+(1)Download Bootstrap from getbootstrap.com
 <br>
 
-Include Bootstrap from a CDN
+(2)Include Bootstrap from a CDN
 <br>
-
-Downloading Bootstrap
-<br>
-
-If you want to download and host Bootstrap yourself, go to getbootstrap.com, and follow the instructions there.
-<br>
-
 
 Bootstrap CDN <br>
 <br>
