@@ -26,32 +26,16 @@ You can:
 <br>
 (1)Download Bootstrap from getbootstrap.com
 <br>
-
 (2)Include Bootstrap from a CDN
 <br>
 
 Bootstrap CDN <br>
 <br>
-
 If you don't want to download and host Bootstrap yourself, you can include it from a CDN (Content Delivery Network).
 <br>
-
 MaxCDN provides CDN support for Bootstrap's CSS and JavaScript. You must also include jQuery:
 <br>
 
-MaxCDN:
-<!-- Latest compiled and minified CSS -->
-<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css">
-<br>
-
-<!-- jQuery library -->
-<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.7.1/jquery.min.js"></script>
-<br>
-
-<!-- Latest compiled JavaScript -->
-<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js"></script>
-<br>
-<br>
 Listed: 
 <br>
 All of My Projects that I made with the help of Bootsstraps.
