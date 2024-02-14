@@ -29,12 +29,7 @@ You can:
 (2)Include Bootstrap from a CDN
 <br>
 
-Bootstrap CDN <br>
-<br>
-If you don't want to download and host Bootstrap yourself, you can include it from a CDN (Content Delivery Network).
-<br>
-MaxCDN provides CDN support for Bootstrap's CSS and JavaScript. You must also include jQuery:
-<br>
+
 
 Listed: 
 <br>
