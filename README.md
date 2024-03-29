@@ -29,13 +29,8 @@ You can:
 (2)Include Bootstrap from a CDN
 <br>
 
-
-MultiwebPage Website - https://66066fa954c2bcb38d598ca3--dashing-swan-f27a04.netlify.app/
-
-
-
 Listed: 
 <br>
-All of My Projects that I made with the help of Bootsstraps.
+My Project that I made with the help of Bootsstraps.
 <br>
-Cheat Sheet of Bootsstraps 5 https://bootstrap-cheatsheet.themeselection.com/
+MultiwebPage Website - https://66066fa954c2bcb38d598ca3--dashing-swan-f27a04.netlify.app/
